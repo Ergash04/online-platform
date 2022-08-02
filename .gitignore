@@ -1,0 +1,6 @@
+.env
+db.postgresql
+.vscode/
+.vs
+/venv
+venv/
